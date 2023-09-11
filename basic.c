@@ -8,6 +8,9 @@ int main() { //int is the return type of the function
     int j = 20;
     float k = 15.05;
     printf("Sakshi %f Mridul %d Pawan %c \n",j,i,k);
+    int a = 10;
+    char b = 's';
+    printf("Mridul %d Sakshi %c \n",a,b);
     return 0;   // return 0 means the program ran successfully
 }
 /*
@@ -33,3 +36,4 @@ int main() { //int is the return type of the function
 // d = 10.23456789;
 // c = 'a';
 // constants are fixed values that do not change during the execution of a program.
+
